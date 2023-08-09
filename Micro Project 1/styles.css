@@ -7,6 +7,10 @@
     
 }
 
+body {
+    font-family: 'Inter';
+}
+
 .main-content {
     width: 40%;
     height: 80%;
@@ -23,7 +27,6 @@
     height: calc(100vh - var(--headerHeight));
     background-color: #FFCD9E;
     height: 70vh;
-    font-family: 'Inter';
     padding: 50px ;
 }
 
