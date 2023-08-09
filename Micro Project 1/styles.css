@@ -26,7 +26,7 @@ body {
     align-items: center;
     height: calc(100vh - var(--headerHeight));
     background-color: #FFCD9E;
-    height: 70vh;
+    height: 75vh;
     padding: 50px ;
 }
 
@@ -89,8 +89,10 @@ body {
     justify-content: space-between;
     background-color: #282828;
     color: #fff;
-    height: 30vh;
-    padding: 35px 250px;
+    height: 25vh;
+    padding: 20px 250px;
+    font-weight: 400;
+    font-size: 2vh;
 }
 
 .text {
